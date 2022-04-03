@@ -1,0 +1,4 @@
+url: "joostop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Joost Opschoor" # title
+description: "joost.opschoor [at] sam.math.ethz.ch" # subtitle

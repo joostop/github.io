@@ -1,0 +1,48 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-3">Preprints</h3>
+    {% for item in site.data.publications.preprint %}
+      <p>
+        {% if item.doi != '' %}
+          <a href="{{ item.doi }}">doi</a>,
+        {% endif %}
+        {% if item.arxiv != '' %}
+          <a href="{{ item.arxiv }}">arxiv</a>,
+        {% endif %}
+        {% if item.url != '' %}
+          <a href="{{ item.url }}">preprint</a>,
+        {% endif %}
+        {{ item.authors }},
+        <em><span style="color:blue">{{ item.title }},</span></em>
+        {% if item.publ != '' %}
+          {{ item.publ }},
+        {% endif %}
+        {{ item.year }}
+      </p>
+    {% endfor %}
+  </div>
+</div>
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-3">Publications</h3>
+    {% for item in site.data.publications.published %}
+      <p>
+        {% if item.doi != '' %}
+          <a href="{{ item.doi }}">doi</a>,
+        {% endif %}
+        {% if item.arxiv != '' %}
+          <a href="{{ item.arxiv }}">arxiv</a>,
+        {% endif %}
+        {% if item.url != '' %}
+          <a href="{{ item.url }}">preprint</a>,
+        {% endif %}
+        {{ item.authors }},
+        <em><span style="color:blue">{{ item.title }},</span></em>
+        {% if item.publ != '' %}
+          {{ item.publ }},
+        {% endif %}
+        {{ item.year }}
+      </p>
+    {% endfor %}
+  </div>
+</div>

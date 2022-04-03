@@ -1,0 +1,59 @@
+
+
+preprint:
+- {
+  authors: 'Marcello Longo, Joost A.A. Opschoor, Nico Disch, Christoph Schwab, Jakob Zech',
+  title: 'De Rham compatible Deep Neural Networks',
+  publ: '',
+  year: '2022',
+  doi: '',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=991',
+  arxiv: 'https://arxiv.org/2201.05395'
+  }
+- {
+  authors: 'Carlo Marcati, Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
+  title: 'Exponential ReLU neural network approximation rates for point and edge singularities',
+  publ: 'Accepted for publication in: Foundations of Computational Mathematics',
+  year: '2022',
+  doi: '',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=938',
+  arxiv: 'https://arxiv.org/abs/2010.12217'
+  }
+
+published:
+- {
+  authors: 'Joost A.A. Opschoor, Christoph Schwab, Jakob Zech',
+  title: 'Deep learning in high dimension: ReLU neural network expression for Bayesian PDE inversion',
+  publ: 'In: Optimization and Control for Partial Differential Equations: Uncertainty quantification, open and closed-loop control, and shape optimization. Eds. Roland Herzog, Matthias Heinkenschloss, Dante Kalise, Georg Stadler, Emmanuel Trélat. De Gruyter',
+  year: '2022',
+  doi: 'https://doi.org/10.1515/9783110695984-015',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=920',
+  arxiv: ''
+  }
+- {
+  authors: 'Lukas Herrmann, Joost A.A. Opschoor, Christoph Schwab',
+  title: 'Constructive deep ReLU neural network approximation',
+  publ: 'Journal of Scientific Computing 90(2), 75',
+  year: '2022',
+  doi: 'https://doi.org/10.1007/s10915-021-01718-2',
+  url: '',
+  arxiv: ''
+  }
+- {
+  authors: 'Joost A.A. Opschoor, Christoph Schwab, Jakob Zech',
+  title: 'Exponential ReLU DNN expression of holomorphic maps in high dimension',
+  publ: 'Constructive Approximation 55(1), 537--582',
+  year: '2022',
+  doi: 'https://doi.org/10.1007/s00365-021-09542-5',
+  url: '',
+  arxiv: ''
+  }
+- {
+  authors: 'Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
+  title: 'Deep ReLU networks and high-order finite element methods',
+  publ: 'Analysis and Applications 18(5), 715--770',
+  year: '2020',
+  doi: 'https://doi.org/10.1142/S0219530519410136',
+  url: '',
+  arxiv: ''
+  }
