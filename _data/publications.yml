@@ -10,17 +10,17 @@ preprint:
   url: 'https://math.ethz.ch/sam/research/reports.html?id=991',
   arxiv: 'https://arxiv.org/abs/2201.05395'
   }
+
+published:
 - {
   authors: 'Carlo Marcati, Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
   title: 'Exponential ReLU neural network approximation rates for point and edge singularities',
-  publ: 'Accepted for publication in: Foundations of Computational Mathematics',
+  publ: 'Foundations of Computational Mathematics',
   year: '2022',
-  doi: '',
-  url: 'https://math.ethz.ch/sam/research/reports.html?id=938',
-  arxiv: 'https://arxiv.org/abs/2010.12217'
+  doi: 'https://doi.org/10.1007/s10208-022-09565-9',
+  url: '',
+  arxiv: ''
   }
-
-published:
 - {
   authors: 'Joost A.A. Opschoor, Christoph Schwab, Jakob Zech',
   title: 'Deep learning in high dimension: ReLU neural network expression for Bayesian PDE inversion',
