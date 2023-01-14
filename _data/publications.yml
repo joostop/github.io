@@ -3,7 +3,7 @@
 preprint:
 - {
   authors: 'Marcello Longo, Joost A.A. Opschoor, Nico Disch, Christoph Schwab, Jakob Zech',
-  title: 'De Rham compatible Deep Neural Networks',
+  title: 'De Rham compatible Deep Neural Network FEM',
   publ: '',
   year: '2022',
   doi: '',
