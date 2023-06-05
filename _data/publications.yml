@@ -4,7 +4,7 @@ preprint:
 - {
   authors: 'Marcello Longo, Joost A.A. Opschoor, Nico Disch, Christoph Schwab, Jakob Zech',
   title: 'De Rham compatible Deep Neural Network FEM',
-  publ: '',
+  publ: 'Accepted for publication in Neural Networks',
   year: '2022',
   doi: '',
   url: 'https://math.ethz.ch/sam/research/reports.html?id=991',
@@ -12,6 +12,15 @@ preprint:
   }
 
 published:
+- {
+  authors: 'Joost A.A. Opschoor',
+  title: 'Constructive deep neural network approximations of weighted analytic solutions to partial differential equations in polygons',
+  publ: 'Dissertation 29278, ETH Zurich, Switzerland',
+  year: '2023',
+  doi: 'https://doi.org/10.3929/ethz-b-000614671',
+  url: '',
+  arxiv: ''
+  }
 - {
   authors: 'Carlo Marcati, Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
   title: 'Exponential ReLU neural network approximation rates for point and edge singularities',
