@@ -1,17 +1,17 @@
 
 
 preprint:
+
+published:
 - {
   authors: 'Marcello Longo, Joost A.A. Opschoor, Nico Disch, Christoph Schwab, Jakob Zech',
   title: 'De Rham compatible Deep Neural Network FEM',
-  publ: 'Accepted for publication in Neural Networks',
-  year: '2022',
-  doi: '',
-  url: 'https://math.ethz.ch/sam/research/reports.html?id=991',
-  arxiv: 'https://arxiv.org/abs/2201.05395'
+  publ: 'Neural Networks 165, 721--739',
+  year: '2023',
+  doi: 'https://doi.org/10.1016/j.neunet.2023.06.008',
+  url: '',
+  arxiv: ''
   }
-
-published:
 - {
   authors: 'Joost A.A. Opschoor',
   title: 'Constructive deep neural network approximations of weighted analytic solutions to partial differential equations in polygons',
