@@ -1,6 +1,15 @@
 
 
 preprint:
+- {
+  authors: 'Joost A.A. Opschoor, Christoph Schwab',
+  title: 'Deep ReLU networks and high-order finite element methods II: Chebyshev emulation',
+  publ: '',
+  year: '2023',
+  doi: '',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=1075',
+  arxiv: 'https://arxiv.org/abs/2310.07261'
+  }
 
 published:
 - {
