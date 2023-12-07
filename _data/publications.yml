@@ -33,8 +33,8 @@ published:
 - {
   authors: 'Carlo Marcati, Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
   title: 'Exponential ReLU neural network approximation rates for point and edge singularities',
-  publ: 'Foundations of Computational Mathematics',
-  year: '2022',
+  publ: 'Foundations of Computational Mathematics 23(3), 1043--1127',
+  year: '2023',
   doi: 'https://doi.org/10.1007/s10208-022-09565-9',
   url: '',
   arxiv: ''
