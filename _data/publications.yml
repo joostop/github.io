@@ -2,6 +2,15 @@
 
 preprint:
 - {
+  authors: 'Joost A.A. Opschoor, Christoph Schwab, Christos Xenophontos',
+  title: 'Neural networks for singular perturbations',
+  publ: '',
+  year: '2024',
+  doi: '',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=1085',
+  arxiv: 'https://arxiv.org/abs/2401.06656'
+  }
+- {
   authors: 'Joost A.A. Opschoor, Christoph Schwab',
   title: 'Deep ReLU networks and high-order finite element methods II: Chebyshev emulation',
   publ: '',
