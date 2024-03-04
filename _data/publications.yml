@@ -2,6 +2,15 @@
 
 preprint:
 - {
+  authors: 'Joost A.A. Opschoor, Christoph Schwab',
+  title: 'Exponential expressivity of ReLU^k neural networks on Gevrey classes with point singularities',
+  publ: '',
+  year: '2024',
+  doi: '',
+  url: 'https://math.ethz.ch/sam/research/reports.html?id=1093',
+  arxiv: ''
+  }
+- {
   authors: 'Joost A.A. Opschoor, Christoph Schwab, Christos Xenophontos',
   title: 'Neural networks for singular perturbations',
   publ: '',
