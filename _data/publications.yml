@@ -8,7 +8,7 @@ preprint:
   year: '2024',
   doi: '',
   url: 'https://math.ethz.ch/sam/research/reports.html?id=1093',
-  arxiv: ''
+  arxiv: 'https://arxiv.org/abs/2403.02035'
   }
 - {
   authors: 'Joost A.A. Opschoor, Christoph Schwab, Christos Xenophontos',
