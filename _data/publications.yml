@@ -19,17 +19,18 @@ preprint:
   url: 'https://math.ethz.ch/sam/research/reports.html?id=1085',
   arxiv: 'https://arxiv.org/abs/2401.06656'
   }
+
+
+published:
 - {
   authors: 'Joost A.A. Opschoor, Christoph Schwab',
   title: 'Deep ReLU networks and high-order finite element methods II: Chebyshev emulation',
   publ: '',
-  year: '2023',
-  doi: '',
-  url: 'https://math.ethz.ch/sam/research/reports.html?id=1075',
-  arxiv: 'https://arxiv.org/abs/2310.07261'
+  year: '2024',
+  doi: 'https://doi.org/10.1016/j.camwa.2024.06.008',
+  url: '',
+  arxiv: ''
   }
-
-published:
 - {
   authors: 'Marcello Longo, Joost A.A. Opschoor, Nico Disch, Christoph Schwab, Jakob Zech',
   title: 'De Rham compatible Deep Neural Network FEM',
