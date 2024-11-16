@@ -2,6 +2,15 @@
 
 preprint:
 - {
+  authors: 'Joost A.A. Opschoor, Philipp C. Petersen, Christoph Schwab',
+  title: 'First order system least squares neural networks',
+  publ: '',
+  year: '2024',
+  doi: '',
+  url: '',
+  arxiv: 'https://arxiv.org/abs/2409.20264'
+  }
+- {
   authors: 'Joost A.A. Opschoor, Christoph Schwab, Christos Xenophontos',
   title: 'Neural networks for singular perturbations',
   publ: '',
